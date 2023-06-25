@@ -50,9 +50,3 @@ To get started with the project, follow these steps:
    ```
 
 6. Once the program completes, you will find the scatterplot saved as `output.svg` in the project directory. Open this file to visualize and analyze the correlation between average maximum temperature and population density.
-
-This project is licensed under the [MIT License](LICENSE).
-
-### Contributing
-
-Contributions are welcome!
